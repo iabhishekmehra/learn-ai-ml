@@ -1,2 +1,3 @@
 # I am using this repo to learn AI / ML engineering </b>
-# Have a good day
+# Feel free to provide suggestions
+# Have a Good Day
